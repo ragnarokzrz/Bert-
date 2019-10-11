@@ -14,5 +14,9 @@ Tensorflow
 - github 链接 https://github.com/macanv/BERT-BiLSTM-CRF-NER 
 - 中文文档请查看 https://blog.csdn.net/macanv/article/details/85684284 
 
-bert 实体识别的训练语料还是很消费人力，物力的。
+bert 实体识别的训练语料还是很消费人力，物力的，无论是train,test,dev 都需要把语料变成如下图所示
+![image](https://github.com/ragnarokzrz/Bert-use/blob/master/%E9%A2%84%E8%AE%AD%E8%AF%AD%E6%96%99.jpg)
+
+然后就可以调用bert 的服务了.
+
 
